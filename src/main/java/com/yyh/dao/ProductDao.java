@@ -8,6 +8,7 @@ import java.util.List;
  * @author YanYuHang
  * @create 2019-11-21-14:47
  */
+
 public interface ProductDao {
     /**
      * 查询全部
